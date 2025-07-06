@@ -24,24 +24,3 @@ A highly comprehensive, professional, and intuitive curated list of resources fo
 
 ## Education & Research
 [See detailed resources in the education-research folder](./education-research/README.md)
-
-
-## Development Frameworks & Processes
-
-This section provides resources on technical aspects, development frameworks, processes, and roadmaps essential for building robust and effective digital health solutions.
-
-## Ethical, Legal, and Regulatory Aspects
-
-Understanding the ethical, legal, and regulatory landscape is crucial for responsible digital health development. This section covers data privacy, patient consent, AI ethics, and compliance.
-
-## Global Standards & Regulations
-
-Adherence to international and national standards is paramount in digital health. This section includes resources on WHO guidelines, cybersecurity standards, and quality frameworks.
-
-## Emerging Technologies
-
-Explore the cutting-edge technologies shaping the future of digital health, including Artificial Intelligence (AI), Blockchain, Internet of Things (IoT), Virtual Reality (VR), Augmented Reality (AR), and Genomics.
-
-## Education & Research
-
-This section compiles educational resources, scientific studies, and conference proceedings to foster continuous learning and research in digital health.
